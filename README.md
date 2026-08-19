@@ -12,3 +12,5 @@ gitレクチャーリポジトリ
 * tom
 
 ## git fetch解説
+
+## git pull解説
